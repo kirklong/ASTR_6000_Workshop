@@ -1,6 +1,6 @@
-# ASTR 6000 Git Workshop
+# ASTR 6000 Git/GitHub Workshop
 
-We're going to use this repo as an interactive exercise to learn Git together!
+We're going to use this repo as an interactive exercise to learn how to collaborate with Git/GitHub together!
 
 ## Step 0: Setting up your Github
 
@@ -51,4 +51,4 @@ Suppose now you're really proud of all the work you've done on this fork of my r
 
 ## Step 6: Profit!
 
-This concludes our "fun" tutorial on Git/GitHub/code collaboration basics. There's a lot more to learn, but hopefully this is a good starting place and you now feel more comfortable with this sort of thing! A final point on something we didn't practice &mdash; what if you want to undo your changes? Sometimes (okay, most of the time) things unexpectedly break and you may want to go back to an earlier version of your code. That's the power of git! You can always revert to a previous commit and undo breaking changes, and here's a [nice resource](https://medium.com/coder-nomad/how-to-reset-your-git-branch-to-a-previous-commit-both-local-and-remote-55e0351dca2b) on what to do when things break.
+This concludes our "fun" tutorial on Git/GitHub/code collaboration basics. There's a lot more to learn, but hopefully this is a good starting place and you now feel more comfortable with this sort of thing! A final point on something we didn't practice &mdash; what if you want to undo your changes? Sometimes (okay, most of the time) things unexpectedly break and you may want to go back to an earlier version of your code. That's the power of git! You can always revert to a previous commit and undo breaking changes, and here's a [nice resource](https://medium.com/coder-nomad/how-to-reset-your-git-branch-to-a-previous-commit-both-local-and-remote-55e0351dca2b) on what to do when things break. Finally, here's a [nice resource](https://github.com/grandcircusco/cheatsheets/blob/master/git-commands-cheat-sheet.md#:~:text=Git%20Commands%20Cheat%20Sheet%201%20Upload%20a%20new,commands.%20Only%20do%20this%20once%20per%20project.%20) of command git commands and what they do that I often refer back to.
