@@ -43,7 +43,7 @@ The first line creates a dummy text file (with nothing in it), the second tells 
 
 ## Step 4: Merging your changes with main
 
-Now that you've successfully tested and implemented your new code it's time to merge our changes with our main branch. This is important because you'll naturally want to keep building on your work, and it's best to make new branches each time you want to make a new feature instead of keeping everything all in one place. We accomplish this with a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Follow the link above and see if you can successfully merge your changes from your "dev" branch to main!
+Now that you've successfully tested and implemented your new code it's time to merge our changes with our main branch. This is important because you'll naturally want to keep building on your work, and it's best to make new branches each time you want to make a new feature instead of keeping everything all in one place. We accomplish this with a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Follow the link above and see if you can successfully merge your changes from your "dev" branch to main! After doing this you can now switch back to the "main" branch by typing `git checkout main` and updating it to reflect your merge by typing `git pull`. You can also safely delete your old branch if you like, but it's not required.
 
 ## Step 5: Submitting a pull request to a larger project
 
