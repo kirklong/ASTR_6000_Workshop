@@ -14,7 +14,7 @@ Which should spit out a message telling you if you've successfully authenticated
 
 ## Step 1: Forking this repository
 
-Forking is a common way open-source projects work with their communities. You may find an interesting bit of code for your job or research that's open source that you would like to modify, but you may not know the creator / work with them directly, and this is where forking comes in! Forking allows you to make a copy of any repository as it is right now that then allows you to make your own changes. If you make changes that benefit the community as a whole you can later request that those changes be merged into the parent repository through what's called a "pull request" &mdash; we will practice this later. Follow [these instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) to fork this repository.
+Forking is a common way open-source projects work with their communities. You may find an interesting bit of code for your job or research that's open source that you would like to modify, but you may not know the creator / work with them directly, and this is where forking comes in! Forking allows you to make a copy of any repository as it is right now that then allows you to make your own changes. If you make changes that benefit the community as a whole you can later request that those changes be merged into the parent repository through what's called a "pull request" &mdash; we will practice this later. Follow [these instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo) to fork this repository, and make sure you get a local clone on your computer!
 
 ## Step 2: Making a new branch
 
