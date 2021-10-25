@@ -7,7 +7,7 @@ We're going to use this repo as an interactive exercise to learn how to collabor
 If you don't have a GitHub account yet, make one [here](https://github.com/join). If you already have a GitHub account make sure [you've set up SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) &mdash; you won't be able to push to your repositories without a "more secure" way than simply entering your username and password, and this is the preferred way. Aimee and I are happy to help you figure this out really quick if you haven't done it before! You can check if you already have this setup by entering the following in a terminal:
 
 ```bash
-ssh - T git@github.com
+ssh -T git@github.com
 ```
 
 Which should spit out a message telling you if you've successfully authenticated or not.
